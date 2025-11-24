@@ -1,0 +1,8 @@
+flask
+schedule
+requests
+pytube
+moviepy
+google-api-python-client
+opencv-python
+gtts
